@@ -1,4 +1,4 @@
-# Hi! I’m Sergio Portillo!  
+# Hi! I’m Sergio
 ### 🧠 Process Improvement Specialist | 📦 Fulfilment Operations Engineer | 🌍 Multilingual Systems Thinker  
 
 I’m a London-based professional originally from Venezuela 🇻🇪. With a background in Psychology and over a decade of experience in technology, education, and service industries, I specialise in streamlining operations, automating fulfilment workflows, and delivering scalable solutions that enhance both partner and team performance.
