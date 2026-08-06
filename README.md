@@ -37,5 +37,4 @@ jira-qa-insights | Jira API, Python | Script to pull and visualise QA bugs and b
 ---
 
 ## 📫 Let’s Connect  
-📧 psicports@gmail.com  
 💼 [LinkedIn – porsergio](https://linkedin.com/in/porsergio)
